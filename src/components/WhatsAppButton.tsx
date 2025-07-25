@@ -42,7 +42,6 @@ const WhatsAppButton = () => {
     );
     window.open(`https://wa.me/542645053813?text=${message}`, '_blank');
   };
-
   if (!isVisible) return null;
 
   return (
