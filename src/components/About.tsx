@@ -39,19 +39,7 @@ const About = () => {
                   y he invertido en tecnología de vanguardia para ofrecer trabajos de la más alta calidad.
                 </p>
                 
-                              <div className="space-y-6 text-gray-300">
-                <p className="text-lg leading-relaxed">
-                  Soy <strong className="text-white">Carlos Andres Echenique Landa</strong>, metalúrgico profesional con más de 20 años de experiencia 
-                  transformando el metal en soluciones duraderas y funcionales para hogares, empresas e industrias 
-                  en San Juan y alrededores.
-                </p>
-                
-                <p className="leading-relaxed">
-                  Mi pasión por la metalurgia comenzó siendo muy joven, cuando trabajaba junto a mi padre en su 
-                  pequeño taller. Desde entonces, he perfeccionado mis habilidades, me he capacitado constantemente 
-                  y he invertido en tecnología de vanguardia para ofrecer trabajos de la más alta calidad.
-                </p>
-                
+                                          
                 <p className="leading-relaxed">
                   Mis habilidades me llevaron a trabajar en alta montaña en proyecto Veladero, allí me desempeñé como encargado y jefe de taller.
                 </p>
