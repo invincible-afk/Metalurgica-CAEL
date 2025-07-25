@@ -38,13 +38,13 @@ const About = () => {
                   pequeño taller. Desde entonces, he perfeccionado mis habilidades, me he capacitado constantemente 
                   y he invertido en tecnología de vanguardia para ofrecer trabajos de la más alta calidad.
                 </p>
-                
-                                          
+                                 
                 <p className="leading-relaxed">
                   Mis habilidades me llevaron a trabajar en alta montaña en proyecto Veladero, allí me desempeñé como encargado y jefe de taller.
                 </p>
                 
               </div>
+              <div>
                 <p className="leading-relaxed">
                   Cada proyecto que emprendo es único y recibe mi atención personalizada. Mi compromiso es entregar 
                   trabajos que no solo cumplan con las especificaciones técnicas, sino que superen las expectativas 
