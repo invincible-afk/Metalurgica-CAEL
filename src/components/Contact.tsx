@@ -140,7 +140,7 @@ const Contact = () => {
                   </a>
                   
                   <a
-                    href="tel:+54264000000"
+                    href="tel:+542645053813"
                     className="block bg-blue-600 text-white px-6 py-4 rounded-lg font-semibold hover:bg-blue-700 transition-colors text-center"
                   >
                     <div className="flex items-center justify-center space-x-2">
@@ -150,7 +150,7 @@ const Contact = () => {
                   </a>
                   
                   <a
-                    href="mailto:carlos@metalpro.com.ar?subject=Consulta%20sobre%20servicios%20metalúrgicos"
+                    href="mailto:clanda119@gmail.com?subject=Consulta%20sobre%20servicios%20metalúrgicos"
                     className="block bg-orange-600 text-white px-6 py-4 rounded-lg font-semibold hover:bg-orange-700 transition-colors text-center"
                   >
                     <div className="flex items-center justify-center space-x-2">
