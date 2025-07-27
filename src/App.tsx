@@ -7,7 +7,7 @@ import Testimonials from './components/Testimonials';
 import Quote from './components/Quote';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import WhatsAppButton from './components/WhatsAppButton';
+
 
 function App() {
   return (
