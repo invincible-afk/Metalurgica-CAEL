@@ -23,15 +23,13 @@ const Footer = () => {
               industriales en San Juan, Argentina.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-orange-500 transition-colors">
+              <a href="https://www.facebook.com/share/1JMsiWVHvS/" className="text-gray-400 hover:text-orange-500 transition-colors">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-orange-500 transition-colors">
+              <a href="https://www.instagram.com/landacarlosandres?igsh=MWxyaGd0eWNzdzlnNQ==" className="text-gray-400 hover:text-orange-500 transition-colors">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-orange-500 transition-colors">
-                <Linkedin size={20} />
-              </a>
+
             </div>
           </div>
 
